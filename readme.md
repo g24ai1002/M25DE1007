@@ -140,4 +140,3 @@ Run all cells. The model will train and evaluate automatically.
 ## Author
 Shubham Verma (M25DE1005)
 Nikhil Jaitak (M21AIE236)
-Ajinkya (M25DE1035)
